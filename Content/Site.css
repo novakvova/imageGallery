@@ -1,0 +1,18 @@
+﻿body {
+    padding-top: 50px;
+    /*padding-bottom: 20px;*/
+}
+
+.leftpanel {
+
+}
+
+    .leftpanel .small-image {
+        width: 100%;
+        display: inline-block;
+        padding-top:10px;
+    }
+
+        .leftpanel .small-image img {
+            width: 100%;
+        }
